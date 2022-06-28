@@ -41,10 +41,10 @@ const Technologies = () =>  (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Cloud Native Tools.</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            tools like K8's etc.
           </ListParagraph>
         </ListContainer>
       </ListItem>
