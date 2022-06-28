@@ -13,7 +13,7 @@ const Hero = (props) => (
           I am Mrinaal Arora.
         </SectionTitle>
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        I am a first year Computer Science student.
         </SectionText>
         <Button onClick={()=>window.location = "https://github.com/aroramrinaal"}>Learn More</Button>
       </LeftSection>
